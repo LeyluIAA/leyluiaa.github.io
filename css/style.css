@@ -1,3 +1,14 @@
+@font-face {
+    font-family: title_font;
+    src: url(golden_age.ttf);
+}
+
 body {
 	background-color: #3B3A3A;
+}
+
+.ley-title {
+	color: white;
+	font-family: title_font;
+	font-size: 4em;
 }
