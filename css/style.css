@@ -18,6 +18,32 @@ body {
 	font-size: 5em;
 }
 
+legend {
+	color: white;
+	font-family: crux;
+	font-size: 3em;
+}
+
+#about {
+	padding: 1% 1% 1% 1%;
+	border: 3px solid #FFFFFF;
+	margin-bottom: 1%;
+}
+
+#skills {
+	padding: 1% 1% 1% 1%;
+	border: 3px solid #FFFF00;
+	margin-bottom: 1%;
+}
+
+#skills legend {
+	color: yellow;
+}
+
+#skills p {
+	color: yellow;
+}
+
 p {
 	color: white;
 	font-family: crux;
