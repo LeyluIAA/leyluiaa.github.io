@@ -24,6 +24,12 @@ legend {
 	font-size: 3em;
 }
 
+p {
+	color: white;
+	font-family: crux;
+	font-size: 2em;
+}
+
 #about {
 	padding: 1% 1% 1% 1%;
 	border: 3px solid #FFFFFF;
@@ -44,8 +50,44 @@ legend {
 	color: yellow;
 }
 
-p {
-	color: white;
-	font-family: crux;
-	font-size: 2em;
+#games {
+	padding: 1% 1% 1% 1%;
+	border: 3px solid #00B5E8;
+	margin-bottom: 1%;
+}
+
+#games legend {
+	color: #00B5E8;
+}
+
+#games p {
+	color: #00B5E8;
+}
+
+#musics {
+	padding: 1% 1% 1% 1%;
+	border: 3px solid #39E800;
+	margin-bottom: 1%;
+}
+
+#musics legend {
+	color: #39E800;
+}
+
+#musics p {
+	color: #39E800;
+}
+
+#design {
+	padding: 1% 1% 1% 1%;
+	border: 3px solid #FF0C00;
+	margin-bottom: 1%;
+}
+
+#design legend {
+	color: #FF0C00;
+}
+
+#design p {
+	color: #FF0C00;
 }
