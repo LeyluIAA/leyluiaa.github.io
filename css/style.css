@@ -63,24 +63,16 @@ li {
 
 /* Fieldsets */
 
-.about, .about-hidden {
+.about {
 	padding: 1% 2% 1% 2%;
 	border: 3px solid #FFFFFF;
 	margin-bottom: 1%;
 }
 
-.about-hidden {
-	display: none;
-}
-
-.skills, .skills-hidden {
+.skills {
 	padding: 1% 2% 1% 2%;
 	border: 3px solid #FFFF00;
 	margin-bottom: 1%;
-}
-
-.skills-hidden {
-	display: none;
 }
 
 .skills legend {
@@ -91,14 +83,10 @@ li {
 	color: yellow;
 }
 
-.games, .games-hidden {
+.games {
 	padding: 1% 2% 1% 2%;
 	border: 3px solid #00B5E8;
 	margin-bottom: 1%;
-}
-
-.games-hidden {
-	display: none;
 }
 
 .games legend {
@@ -109,16 +97,11 @@ li {
 	color: #00B5E8;
 }
 
-.musics, .musics-hidden {
+.musics {
 	padding: 1% 2% 1% 2%;
 	border: 3px solid #39E800;
 	margin-bottom: 1%;
 }
-
-.musics-hidden {
-	display: none;
-}
-
 
 .musics legend {
 	color: #39E800;
@@ -128,14 +111,10 @@ li {
 	color: #39E800;
 }
 
-.design, .design-hidden {
+.design {
 	padding: 1% 2% 1% 2%;
 	border: 3px solid #FF0C00;
 	margin-bottom: 1%;
-}
-
-.design-hidden {
-	display: none
 }
 
 .design legend {
@@ -144,4 +123,11 @@ li {
 
 .design p, #title-design {
 	color: #FF0C00;
+}
+
+.hidden {
+	padding: 1% 2% 1% 2%;
+	border: 3px solid #FF0C00;
+	margin-bottom: 1%;
+	display: none
 }

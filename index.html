@@ -25,11 +25,11 @@
 			        <li class="home-menu-item" id="title-design">Design</li>
 			    </ul>
 			</div>
-	    	<fieldset id="about" class="about-hidden">
+	    	<fieldset id="about" class="hidden">
 				<legend> About </legend>
 				<p>My name is LeyluIAA. I'm a lead developer, gamer and music lover</p>
 			</fieldset>
-			<fieldset id="skills" class="skills-hidden">
+			<fieldset id="skills" class="hidden">
 				<legend> Working Skills </legend>
 				<p>HTML</p>
 				<p>CSS</p>
@@ -37,74 +37,23 @@
 				<p>Python</p>
 				<p>Lead Development</p>
 			</fieldset>
-			<fieldset id="games" class="games-hidden">
+			<fieldset id="games" class="hidden">
 				<legend> Games </legend>
 				<p>Duelyst</p>
 				<p>Steam</p>
 			</fieldset>
-			<fieldset id="musics" class="musics-hidden">
+			<fieldset id="musics" class="hidden">
 				<legend> Musics </legend>
 				<p>Panda eyes</p>
 				<p>Virgin</p>
 			</fieldset>
-			<fieldset id="design" class="design-hidden">
+			<fieldset id="design" class="hidden">
 				<legend> Design </legend>
 				<p>No result</p>
 			</fieldset>
 		</div>
     	<div class="pure-u-1-6"></div>
 	</div>
-	<script type="text/javascript">
-		var about = false;
-		$( "#title-about").click(function() {
-			if (about) {
-				$(".about").removeClass("about").addClass("about-hidden");
-				about = false;
-			} else {
-				$(".about-hidden").removeClass("about-hidden").addClass("about");
-				about = true;
-			}
-		});
-		var skills = false;
-		$( "#title-skills").click(function() {
-			if (skills) {
-				$(".skills").removeClass("skills").addClass("skills-hidden");
-				skills = false;
-			} else {
-				$(".skills-hidden").removeClass("skills-hidden").addClass("skills");
-				skills = true;
-			}
-		});
-		var games = false;
-		$( "#title-games").click(function() {
-			if (games) {
-				$(".games").removeClass("games").addClass("games-hidden");
-				games = false;
-			} else {
-				$(".games-hidden").removeClass("games-hidden").addClass("games");
-				games = true;
-			}
-		});
-		var musics = false;
-		$( "#title-musics").click(function() {
-			if (musics) {
-				$(".musics").removeClass("musics").addClass("musics-hidden");
-				musics = false;
-			} else {
-				$(".musics-hidden").removeClass("musics-hidden").addClass("musics");
-				musics = true;
-			}
-		});
-		var design = false;
-		$( "#title-design").click(function() {
-			if (design) {
-				$(".design").removeClass("design").addClass("design-hidden");
-				design = false;
-			} else {
-				$(".design-hidden").removeClass("design-hidden").addClass("design");
-				design = true;
-			}
-		});
-	</script>
+	<script type="text/javascript" src="js/script.js"></script>
 </body>
 </html>
