@@ -91,31 +91,31 @@ li {
 	color: yellow;
 }
 
-.games {
+.projects {
 	padding: 1% 2% 1% 2%;
 	border: 3px solid #00B5E8;
 	margin-bottom: 1%;
 }
 
-.games legend {
+.projects legend {
 	color: #00B5E8;
 }
 
-.games p, #title-games {
+.projects p, #title-projects {
 	color: #00B5E8;
 }
 
-.musics {
+.links {
 	padding: 1% 2% 1% 2%;
 	border: 3px solid #39E800;
 	margin-bottom: 1%;
 }
 
-.musics legend {
+.links legend {
 	color: #39E800;
 }
 
-.musics p, #title-musics {
+.links p, #title-links {
 	color: #39E800;
 }
 

@@ -10,13 +10,13 @@ $( "#title-about").click(function() {
 			$("#skills").removeClass("skills").addClass("hidden");
 			skills = false;
 		}
-		if (games) {
-			$("#games").removeClass("games").addClass("hidden");
-			games = false;
+		if (projects) {
+			$("#projects").removeClass("projects").addClass("hidden");
+			projects = false;
 		}
-		if (musics) {
-			$("#musics").removeClass("musics").addClass("hidden");
-			musics = false;
+		if (links) {
+			$("#links").removeClass("links").addClass("hidden");
+			links = false;
 		}
 		if (design) {
 			$("#design").removeClass("design").addClass("hidden");
@@ -36,13 +36,13 @@ $( "#title-skills").click(function() {
 			$("#about").removeClass("about").addClass("hidden");
 			about = false;
 		}
-		if (games) {
-			$("#games").removeClass("games").addClass("hidden");
-			games = false;
+		if (projects) {
+			$("#projects").removeClass("projects").addClass("hidden");
+			projects = false;
 		}
-		if (musics) {
-			$("#musics").removeClass("musics").addClass("hidden");
-			musics = false;
+		if (links) {
+			$("#links").removeClass("links").addClass("hidden");
+			links = false;
 		}
 		if (design) {
 			$("#design").removeClass("design").addClass("hidden");
@@ -50,14 +50,14 @@ $( "#title-skills").click(function() {
 		}
 	}
 });
-var games = false;
-$( "#title-games").click(function() {
-	if (games) {
-		$("#games").removeClass("games").addClass("hidden");
-		games = false;
+var projects = false;
+$( "#title-projects").click(function() {
+	if (projects) {
+		$("#projects").removeClass("projects").addClass("hidden");
+		projects = false;
 	} else {
-		$("#games").removeClass("hidden").addClass("games");
-		games = true;
+		$("#projects").removeClass("hidden").addClass("projects");
+		projects = true;
 		if (about) {
 			$("#about").removeClass("about").addClass("hidden");
 			about = false;
@@ -66,9 +66,9 @@ $( "#title-games").click(function() {
 			$("#skills").removeClass("skills").addClass("hidden");
 			skills = false;
 		}
-		if (musics) {
-			$("#musics").removeClass("musics").addClass("hidden");
-			musics = false;
+		if (links) {
+			$("#links").removeClass("links").addClass("hidden");
+			links = false;
 		}
 		if (design) {
 			$("#design").removeClass("design").addClass("hidden");
@@ -76,14 +76,14 @@ $( "#title-games").click(function() {
 		}
 	}
 });
-var musics = false;
-$( "#title-musics").click(function() {
-	if (musics) {
-		$("#musics").removeClass("musics").addClass("hidden");
-		musics = false;
+var links = false;
+$( "#title-links").click(function() {
+	if (links) {
+		$("#links").removeClass("links").addClass("hidden");
+		links = false;
 	} else {
-		$("#musics").removeClass("hidden").addClass("musics");
-		musics = true;
+		$("#links").removeClass("hidden").addClass("links");
+		links = true;
 		if (about) {
 			$("#about").removeClass("about").addClass("hidden");
 			about = false;
@@ -92,9 +92,9 @@ $( "#title-musics").click(function() {
 			$("#skills").removeClass("skills").addClass("hidden");
 			skills = false;
 		}
-		if (games) {
-			$("#games").removeClass("games").addClass("hidden");
-			games = false;
+		if (projects) {
+			$("#projects").removeClass("projects").addClass("hidden");
+			projects = false;
 		}
 		if (design) {
 			$("#design").removeClass("design").addClass("hidden");
@@ -118,13 +118,13 @@ $( "#title-design").click(function() {
 			$("#skills").removeClass("skills").addClass("hidden");
 			skills = false;
 		}
-		if (games) {
-			$("#games").removeClass("games").addClass("hidden");
-			games = false;
+		if (projects) {
+			$("#projects").removeClass("projects").addClass("hidden");
+			projects = false;
 		}
-		if (musics) {
-			$("#musics").removeClass("musics").addClass("hidden");
-			musics = false;
+		if (links) {
+			$("#links").removeClass("links").addClass("hidden");
+			links = false;
 		}
 	}
 });
