@@ -1,29 +1,3 @@
-var about = false;
-$( "#title-about").click(function() {
-	if (about) {
-		$("#about").removeClass("about").addClass("hidden");
-		about = false;
-	} else {
-		$("#about").removeClass("hidden").addClass("about");
-		about = true;
-		if (skills) {
-			$("#skills").removeClass("skills").addClass("hidden");
-			skills = false;
-		}
-		if (projects) {
-			$("#projects").removeClass("projects").addClass("hidden");
-			projects = false;
-		}
-		if (links) {
-			$("#links").removeClass("links").addClass("hidden");
-			links = false;
-		}
-		if (design) {
-			$("#design").removeClass("design").addClass("hidden");
-			design = false;
-		}
-	}
-});
 var skills = false;
 $( "#title-skills").click(function() {
 	if (skills) {
@@ -32,10 +6,6 @@ $( "#title-skills").click(function() {
 	} else {
 		$("#skills").removeClass("hidden").addClass("skills");
 		skills = true;
-		if (about) {
-			$("#about").removeClass("about").addClass("hidden");
-			about = false;
-		}
 		if (projects) {
 			$("#projects").removeClass("projects").addClass("hidden");
 			projects = false;
@@ -58,10 +28,6 @@ $( "#title-projects").click(function() {
 	} else {
 		$("#projects").removeClass("hidden").addClass("projects");
 		projects = true;
-		if (about) {
-			$("#about").removeClass("about").addClass("hidden");
-			about = false;
-		}
 		if (skills) {
 			$("#skills").removeClass("skills").addClass("hidden");
 			skills = false;
@@ -84,10 +50,6 @@ $( "#title-links").click(function() {
 	} else {
 		$("#links").removeClass("hidden").addClass("links");
 		links = true;
-		if (about) {
-			$("#about").removeClass("about").addClass("hidden");
-			about = false;
-		}
 		if (skills) {
 			$("#skills").removeClass("skills").addClass("hidden");
 			skills = false;
@@ -110,10 +72,6 @@ $( "#title-design").click(function() {
 	} else {
 		$("#design").removeClass("hidden").addClass("design");
 		design = true;
-		if (about) {
-			$("#about").removeClass("about").addClass("hidden");
-			about = false;
-		}
 		if (skills) {
 			$("#skills").removeClass("skills").addClass("hidden");
 			skills = false;

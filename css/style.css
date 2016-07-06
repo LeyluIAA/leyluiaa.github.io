@@ -63,12 +63,6 @@ li {
 
 /* Fieldsets */
 
-.about {
-	padding: 1% 2% 1% 2%;
-	border: 3px solid #FFFFFF;
-	margin-bottom: 1%;
-}
-
 .skills {
 	padding: 1% 2% 1% 2%;
 	border: 3px solid #FFFF00;
@@ -101,8 +95,12 @@ li {
 	color: #00B5E8;
 }
 
-.projects p, #title-projects {
+.projects p, .projects p a, #title-projects {
 	color: #00B5E8;
+}
+
+.projects p a {
+	text-decoration: none;
 }
 
 .links {
@@ -115,8 +113,12 @@ li {
 	color: #39E800;
 }
 
-.links p, #title-links {
+.links p, .links p a, #title-links {
 	color: #39E800;
+}
+
+.links p a {
+	text-decoration: none;
 }
 
 .design {
