@@ -1,0 +1,5 @@
+source:      "_posts"
+destination: "_site"
+safe:        False
+timezone:    "Etc/GMT+1"
+encoding:    "utf-8"
