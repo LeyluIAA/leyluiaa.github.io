@@ -1,5 +1,27 @@
-source:      "_posts"
-destination: "_site"
-safe:        False
-timezone:    "Etc/GMT+1"
-encoding:    "utf-8"
+# Blog settings
+permalink: /blog/:title
+
+
+# My variables
+name: LeyluIAA
+description: Technophile / Gamer / Developpeur
+google_verification: null
+
+
+# File management
+include: [".htaccess"]
+exclude: ["README.md", "LICENSE"]
+
+
+# Sass
+sass:
+  style: :compressed
+  sass_dir: _sass
+
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
