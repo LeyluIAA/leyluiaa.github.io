@@ -1,8 +1,11 @@
-- title: about
+- title: A propos
   url: /me
 
-- title: github
+- title: Github
   url: https://github.com/leyluiaa
 
-- title: twitter
+- title: Twitter
   url: https://twitter.com/leyluiaa
+
+- title: E3news
+  url: http://e3news.herokuapp.com/
