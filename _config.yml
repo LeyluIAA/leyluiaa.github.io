@@ -1,10 +1,15 @@
 # Blog settings
 permalink: /blog/:title
 
+# Feed
+gems:
+  - jekyll-feed
 
 # My variables
 name: LeyluIAA
 description: Technophile / Gamer / Developpeur
+url: leyluiaa.github.io
+author: LeyluIAA
 google_verification: null
 
 
