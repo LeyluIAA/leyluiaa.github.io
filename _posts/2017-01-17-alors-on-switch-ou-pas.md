@@ -8,15 +8,15 @@ category: jeux
 
 # Introduction
 
-OMG!! Une nouvelle console! Quel bonheur que d'avoir une nouvelle de ce genre! Car oui, bien que j'ai tendance à être de moins en moins regardant sur le hardware d'une console et de plus en plus sur le service fournit, l'arrivée d'une nouvelle tête sur ce marché me fais toujours frémir. Alors, est ce que l'on switch ou pas?
+OMG!! Une nouvelle console! Quel bonheur que d'avoir une nouvelle de ce genre! Car oui, bien que j'ai tendance à être de moins en moins regardant sur le hardware d'une console et de plus en plus sur le service fourni, l'arrivée d'une nouvelle tête sur ce marché me fais toujours frémir. Alors, est ce que l'on switch ou pas?
 
 ## La Switch, qu'est-ce que c'est?
 
-Il s'agit de la nouvelle console de Nintendo. son nom évoque sa particularité: c'est une console hybride. En effet, celle-ci peut s'utiliser en tant que console portable ou de salon. Il devient donc un peu difficile de la catégoriser. Autre originalité de cette console, ces fameux *joycon* qui sont adjoints à la console mais peuvent également s'utiliser comme manettes amovibles comme des wiimotes ou en tant que manette classique à l'aide d'un support.
+Il s'agit de la nouvelle console de Nintendo. Son nom évoque sa particularité: c'est une console hybride. En effet, celle-ci peut s'utiliser en tant que console portable ou de salon. Il devient donc un peu difficile de la catégoriser. Autre originalité de cette console, ces fameux *joycon* qui sont adjoints à la console mais peuvent également s'utiliser comme manettes amovibles comme des wiimotes ou en tant que manette classique à l'aide d'un support.
 
 Cette console permet notamment le jeu à plusieurs soit sur une seule et même console soit avec plusieurs console en réseau.
 
-Je vous laisse regarder la vidéo d'annonce de Nintendo, nous présentant rapidement sa console:
+Je vous laisse regarder la vidéo d'annonce de Nintendo:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f5uik5fgIaI" frameborder="0" allowfullscreen></iframe>
 
@@ -113,14 +113,14 @@ NON!
 Voilà comme ça je réponds clairement à la question, maintenant je m'explique.
 
 Tout d'abord, la Switch souffre de quelques défauts:
-* Un line up bien trop léger. Je ne pense pas qu'un Zelda aussi bon soit-il suffira à donner à Nintendo les ventes qu'ils espèrent pour un lancement.
-* Un prix mortel... En effet, la Switch est la console la plus cher du marché, et je ne parle même pas du prix des accessoires...
-*  La technique faiblarde: le hardware me semble juste. Les premiers essais du Zelda sur le web semble confirmer mes dires.
 
-Et j'ajouterais à cela un point intrigant: Pourquoi y a-t-il eu si peu d'annonce d'éditeur tiers?
+* Un line up bien trop léger. Je ne pense pas qu'un Zelda aussi bon soit-il suffira à donner à Nintendo les ventes qu'ils espèrent pour un lancement.
+* Un prix mortel... En effet, la Switch est la console la plus chère du marché, et je ne parle même pas du prix des accessoires...
+
+Et j'ajouterais à cela un point intrigant: Pourquoi y a-t-il eu si peu d'annonces d'éditeurs tiers?
 En effet ce point me pousse à me poser des questions. Est-ce là encore la technique qui fait défaut? Où bien est-ce seulement parce que le kit de développement est arrivé tard chez les éditeurs? J'espère qu'il s'agit de la 2ème option. Mais ce point s'additionne aux autres et souligne davantage la pauvreté du catalogue des premiers mois de la console.
 
-Vous l'aurez compris, l'annonce officielle m'a refroidit. Cette conférence qui a servit pour l'événement a fait retomber l'engouement général pour cette machine. Il faut dire que l'attente était importante. Si l'engouement est tombé, c'est selon moi essentiellement à cause de la pauvreté du catalogue de jeux annoncés. Ce catalogue manque de licences qui déclencheraient l'achat. Nintendo a une vraie force depuis la nuit des temps: ses exclus. Mais il n'a pas joué suffisamment dessus pour cette annonce. S'il joue sur ce point dans les mois qui viennent, cela peut faire la différence et Nintendo fera mal.
+Vous l'aurez compris, l'annonce officielle m'a refroidit. Cette conférence qui a servi pour l'événement a fait retomber l'engouement général pour cette machine. Il faut dire que l'attente était importante. Si l'engouement est tombé, c'est selon moi essentiellement à cause de la pauvreté du catalogue de jeux annoncés. Ce catalogue manque de licences qui déclencheraient l'achat. Nintendo a une vraie force depuis la nuit des temps: ses exclus. Mais il n'a pas joué suffisamment dessus pour cette annonce. S'il joue sur ce point dans les mois qui viennent, cela peut faire la différence et Nintendo fera mal.
 
-*En tout cas, Nintendo affirme une fois de plus une différence marquée par rapport à ses concurrents, mais une différence qui coûte cher! Ajoutons à cela un line up faiblard, et il n'en faut pas plus pour que je vous donne un conseil:* **Wait and see**
+*En tout cas, Nintendo affirme une fois de plus une différence marquée par rapport à ses concurrents, mais une différence qui coûte chère! Ajoutons à cela un line up faiblard, et il n'en faut pas plus pour que je vous donne un conseil:* **Wait and see**
 *Je garde tout de même espoir en cette console. En effet, elle pourrait nous surprendre d'ici la fin de l'année si de nouvelles licences pointent le bout de leur nez, notamment lors de l'E3 (un POKEMON pour la Switch, un nouveau Metroid, une annonce du prochain Beyond Good & Evil...). Après tout, j'ai le droit de rêver...*
