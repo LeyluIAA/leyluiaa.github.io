@@ -102,9 +102,11 @@ Maintenant, il convient de prendre en compte cette *Nintendo difference*, et qui
 
 Ce côté Hybride est selon moi aussi l'occasion pour Nintendo de remplacer la 3DS qui semble avoir fait son temps. En effet, bon nombres de jeux aujourd'hui souffre sur la console portable à cause de faiblesses techniques de celle-ci. C'est le cas notamment du dernier POKEMON, qui affiche concrètement ces défauts.
 
-L'objectif premier est donc de remplacer la Wii U, elle est vendu comme telle, mais également à termes remplacer la 3DS vieillissante. Avec un prix de lancement aussi élevé, aucun doute sur le fait que Nintendo a un besoin crucial de renflouer ses caisses.
+L'objectif premier est donc de remplacer la Wii U, elle est vendu comme telle, mais également à termes remplacer la 3DS vieillissante. Je nuance ce deuxième point car j'entends des gens dire également que Nintendo aimerait remplacer la 3DS par une autre console portable, m'enfin bon, à voir.. En tout cas, avec un prix de lancement aussi élevé, aucun doute sur le fait que Nintendo a un besoin crucial de renflouer ses caisses.
 
 <h2 id="mon_avis">Alors, le changement, c'est pour maintenant ou pas?</h2>
+
+![Nintendo Switch](/assets/img/switch.jpg){:width="100%"}
 
 NON!
 
