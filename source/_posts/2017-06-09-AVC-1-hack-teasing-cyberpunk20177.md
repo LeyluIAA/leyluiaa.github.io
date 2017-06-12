@@ -38,4 +38,5 @@ Enfin dernier argument, nous sommes à quelques jours de l'E3 2017! Non mais que
 
 # Conclusion
 
+Ai-je raison ou pas? On le découvrira à l'E3 ou dans les semaines/mois qui suivent.
 Alors Avez-Vous Capter ce coup de génie de CD PROJEKT RED pour teaser Cyberpunk 2077?
