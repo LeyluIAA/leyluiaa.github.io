@@ -1,7 +1,6 @@
 baseURL = "http://leyluiaa.github.io/"
 languageCode = "fr-FR"
 title = "Le repère de LeyluIAA"
-publishDir = "docs"
 
 [Params]
     logo = "img/srm.png"
