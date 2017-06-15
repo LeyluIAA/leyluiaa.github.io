@@ -1,0 +1,12 @@
+baseURL = "http://leyluiaa.github.io/"
+languageCode = "fr-FR"
+title = "Le repère de LeyluIAA"
+
+[Params]
+    logo = "img/srm.png"
+    favicon = "img/favicon.ico"
+
+[Author]
+    twitter = "leyluiaa"
+    github = "LeyluIAA"
+    handle = "LeyluIAA"
