@@ -1,0 +1,52 @@
+// personal variables
+$white: white;
+$beige:#e1eef6;
+$orange:#ff5f2e;
+$jaune:#fcbe32;
+$bleu_fonce:#004e66;
+
+$body_font:'Varela Round', sans-serif;
+$headings_font: 'Bevan', sans-serif;
+
+//Bootstrap variables
+$list-group-bg: $beige;
+$primary: $beige;
+$secondary: $bleu_fonce;
+$danger: $orange;
+$warning: $jaune;
+$box-shadow:0 .5rem 1rem rgba(black, .25);
+$gray-200: white;
+
+@import './node_modules/bootstrap/scss/bootstrap';
+@import url('https://fonts.googleapis.com/css?family=Varela+Round|Bevan');
+
+body{
+    margin: 0;
+    font-family: $body_font;
+    font-size: 1.1rem;
+}
+
+.header-left, .header-right {
+    height: 220px;
+    font-family: $headings_font;
+    font-size: 1.2rem;
+}
+
+h2 {
+    font-family: $headings_font;
+    font-size: 2.2rem;
+}
+.name-header {
+    font-family: $headings_font;
+    font-size: 2.5rem;
+}
+
+@media (max-width: 768px) {
+    .header-left {
+        height: 150px;
+    }
+    .header-right {
+        height: 220px;
+        font-size: 1rem;
+    }
+}
