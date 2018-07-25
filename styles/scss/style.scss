@@ -45,8 +45,14 @@ h2 {
     .header-left {
         height: 150px;
     }
+    .name-header {
+        font-size: 2rem;
+    }
+    h2 {
+        font-size: 2rem;
+    }
     .header-right {
         height: 220px;
-        font-size: 1rem;
+        font-size: 0.8rem;
     }
 }
