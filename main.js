@@ -1,7 +1,7 @@
 new Vue({
     el: '#app',
     data: {
-        punchline: 'Hello, i\m LeyluIAA',
+        punchline: 'Les nouvelles technologies sont là pour nous faciliter la vie',
         basics: {
             name: 'Florent Demeulenaere',
             occupation: 'Développeur fullstack',

@@ -3,10 +3,10 @@ $white: white;
 $beige:#e1eef6;
 $orange:#ff5f2e;
 $jaune:#fcbe32;
-$bleu_fonce:#004e66;
+$bleu_fonce:#004458;
 
 $body_font:'Varela Round', sans-serif;
-$headings_font: 'Bevan', sans-serif;
+$headings_font: 'Roboto', sans-serif;
 
 //Bootstrap variables
 $list-group-bg: $beige;
@@ -19,6 +19,7 @@ $gray-200: white;
 
 @import './node_modules/bootstrap/scss/bootstrap';
 @import url('https://fonts.googleapis.com/css?family=Varela+Round|Bevan');
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,900&display=swap');
 
 body{
     margin: 0;
@@ -27,9 +28,17 @@ body{
 }
 
 .header-left, .header-right {
-    height: 220px;
+    height: 100vh;
     font-family: $headings_font;
     font-size: 1.2rem;
+    text-align: left;
+}
+
+.face {
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    border: 5px solid $orange;
 }
 
 h2 {
@@ -38,7 +47,8 @@ h2 {
 }
 .name-header {
     font-family: $headings_font;
-    font-size: 2.5rem;
+    font-size: 4rem;
+    font-weight: 900;
 }
 
 @media (max-width: 768px) {
