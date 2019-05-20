@@ -2,6 +2,13 @@ new Vue({
     el: '#app',
     data: {
         punchline: 'Les nouvelles technologies sont là pour nous faciliter la vie',
+        headings: {
+            skills: 'Compétences',
+            education: 'Formations',
+            experiences: 'Expériences',
+            portfolio: 'Projets personnels',
+            hobbies: 'Loisirs'
+        },
         basics: {
             name: 'Florent Demeulenaere',
             occupation: 'Développeur fullstack',
@@ -29,6 +36,21 @@ new Vue({
             {
                 network: 'codepen',
                 link: ''
+            }
+        ],
+        skills: [
+            {
+                category: 'Langages & BDD',
+                listOfSkills: [
+                    {
+                        name: 'Javascript ES5, ES6',
+                        value: 40
+                    },
+                    {
+                        name: 'CSS3',
+                        value: 35
+                    }
+                ]
             }
         ]
     },
