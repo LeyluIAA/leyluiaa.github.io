@@ -1,37 +1,29 @@
 var gulp         = require('gulp'),
     sass         = require('gulp-sass'),
     cssnano      = require('gulp-cssnano'),
-    plumber      = require('gulp-plumber'),
     autoprefixer = require('gulp-autoprefixer');
 var browserSync  = require('browser-sync');
 
-gulp.task('css', function() {
-    return gulp.src('./styles/scss/**/*.scss')
-        .pipe(sass())
-        .pipe(autoprefixer({
-            browsers: ['last 2 versions']
-        }))
-        .pipe(cssnano())
-        .pipe(gulp.dest('./styles/css/'))
-        .pipe(browserSync.reload({
-            stream: true
-        }));
-});
+function style() {
+  return gulp.src('./styles/scss/**/*.scss')
+      .pipe(sass())
+      .pipe(autoprefixer())
+      .pipe(cssnano())
+      .pipe(gulp.dest('./styles/css/'))
+      .pipe(browserSync.stream());
+}
 
-gulp.task('browserSync', function() {
-    browserSync({
-      server: {
-        baseDir: '.'
-      },
-    })
-  })
+function watch() {
+  browserSync.init({
+    server: {
+      baseDir: '.',
+      index: 'index.html'
+    }
+  });
+  gulp.watch('./styles/scss/**/*.scss', style)
+  gulp.watch('index.html').on('change', browserSync.reload);
+  // gulp.watch('./js/**/*.js').on('change', browserSync.reload);
+}
 
-gulp.task('default', ['css']);
-
-gulp.task('build', ['css']);
-
-gulp.task('watch', ['browserSync', 'css'], function () {
-    gulp.watch('./styles/scss/**/*.scss', ['build']);
-    gulp.watch('index.html', browserSync.reload);
-});
-
+exports.style = style
+exports.watch = watch

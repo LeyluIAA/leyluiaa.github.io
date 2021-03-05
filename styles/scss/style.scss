@@ -1,12 +1,9 @@
 // personal variables
 $white: white;
 $beige:#e1eef6;
-$orange:#ff5f2e;
+$orange:#d34f12ec;
 $jaune:#fcbe32;
 $bleu_fonce:#004e66;
-
-$body_font:'Varela Round', sans-serif;
-$headings_font: 'Bevan', sans-serif;
 
 //Bootstrap variables
 $list-group-bg: $beige;
@@ -15,12 +12,14 @@ $secondary: $bleu_fonce;
 $danger: $orange;
 $warning: $jaune;
 $box-shadow:0 .5rem 1rem rgba(black, .25);
-$gray-200: white;
 
-@import './node_modules/bootstrap/scss/bootstrap';
-@import url('https://fonts.googleapis.com/css?family=Varela+Round|Bevan');
+$body_font: 'Varela Round', sans-serif;
+$headings_font: 'Bevan', sans-serif;
 
-body{
+@import '../../node_modules/bootstrap/scss/bootstrap';
+//@import url('https://fonts.googleapis.com/css?family=Varela+Round|Bevan');
+
+body {
     margin: 0;
     font-family: $body_font;
     font-size: 1.1rem;
