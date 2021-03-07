@@ -8,9 +8,6 @@
   },
   "author": "LeyluIAA",
   "license": "MIT",
-  "dependencies": {
-    "bootstrap": "^5.0.0-beta2"
-  },
   "devDependencies": {
     "browser-sync": "^2.26.14",
     "gulp": "^4.0.2",
