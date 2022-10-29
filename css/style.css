@@ -276,7 +276,7 @@ a:focus {
 	cursor: pointer;
 	display: block;
 	top: 0;
-	background-color: #000;
+	/* background-color: #000; */
 	color: #fff;
 	z-index: 5;
 	line-height: 40px;
